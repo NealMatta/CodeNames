@@ -1,0 +1,43 @@
+### Nav Bar
+  - Stills
+    - Separated into 35mm still photography and film stills
+      - Refine later but come back to
+    - BTS section
+    - Click on nav bar to reveal drop down menu. Once section is clicked on,
+      immediately direct to
+  - About
+    -  Bio and profile picture
+  - Contact
+    - Instagram
+  - Clips/My projects
+    - This would be all the motion clips and stuff
+      - Reel, Finished short films, etc.
+        - Each film would have small description section
+
+### Color Scheme
+  - Black, white, and light grey
+
+### Reach
+  - Divide Clips section into narrative, short film, commercial, documentary etc.
+
+### Content from Ryan
+  - Stills
+    - All the stills, a description, 35mm vs film
+  - About
+    - Description from you
+    - Profile Picture
+  - Contact
+    - What email you'd like people to send you
+  - Clips
+    - All clips
+
+### Neal's work
+  - Figure out how to store and display media
+    - Stills and Clips
+  - On site email sending
+    - Contact
+  - Display the instagram feed (Doing this means I must make the repo private)
+    - https://css-tricks.com/everything-need-know-instagram-api-integration/
+    - https://www.instagram.com/developer/authentication/
+    - https://www.npmjs.com/package/react-instafeed
+    - About Page

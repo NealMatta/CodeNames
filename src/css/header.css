@@ -1,0 +1,28 @@
+header {
+  background-color: #e6e8ed;
+  min-height: 25vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: #282c34;
+  position: relative;
+  margin-bottom: 5vmin; }
+
+.navBar {
+  display: inline-flex;
+  position: absolute;
+  list-style: none;
+  bottom: 0;
+  font-size: calc(5px + 2vmin);
+  padding: 0; }
+  .navBar li {
+    font-size: calc(3px + 2vmin);
+    margin-left: calc(2px + 2vmin);
+    margin-right: calc(2px + 2vmin); }
+
+a {
+  color: #06BEE1; }
+  a:hover {
+    color: #03256C;
+    text-decoration: none;
+    transition: 0.2s; }
